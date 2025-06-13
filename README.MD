@@ -20,3 +20,10 @@
 
         git push origin main        (push done, origin we set was main so yeah)
 - master
+
+# But wait
+    Always anytime you modify or do anything even after adding and commiting you'll have to push into github as well
+        git push origin main
+
+                if youw wrote once git pus -u origin main
+                    then from nexxt time you can just write as git push and yeay
