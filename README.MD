@@ -41,7 +41,7 @@
 
 # Git Branches - Collab
 - main
-
+    it checkout main
 Flow:
 
 Commit 
