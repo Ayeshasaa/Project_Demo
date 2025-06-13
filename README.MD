@@ -27,3 +27,29 @@
 
                 if youw wrote once git pus -u origin main
                     then from nexxt time you can just write as git push and yeay
+
+# Only some text chamegd or files changed and no files were added
+    then we can add and commit at atime as git commit -am "msg"
+
+
+# Workflow
+    in Github
+        code chage -> commit (-> PR - Pull Request)
+    in local git
+        code change -> add -> commit -> push (-> PR - Pull Request)
+
+
+# Git Branches - Collab
+- main
+
+Flow:
+
+Commit 
+Next Commit Here comes branches(html)
+    branch next,next commuits....(style) named feature
+same
+    branches
+
+dev push to main
+
+# Merge
